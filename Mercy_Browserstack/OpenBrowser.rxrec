@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="6a58bb41-f0ad-4075-9f17-ad1b1258965a"
+mode="Desktop">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="OpenBrowser"
+	namespace="Mercy_Browserstack">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+		<openwebsiterecorditem
+		args=""
+		browser="chrome"
+		clearcache="False"
+		clearcookies="False"
+		enabled="True"
+		incognito="False"
+		instrument="True"
+		killexisting="False"
+		maximized="True"
+		optional="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<url>
+				https://the-internet.herokuapp.com/
+			</url>
+		</openwebsiterecorditem>
+	</recorditems>
+	<repository
+	id="c381cb32-0101-4c28-814a-da171f629e24"
+	name="Mercy_BrowserstackRepository"
+	relativepath="Mercy_BrowserstackRepository.rxrep">
+		<codegen
+		classname="Mercy_BrowserstackRepository"
+		namespace="Mercy_Browserstack">
+		</codegen>
+		<rootfolder
+		id="80c48ebb-f022-4822-bb1c-8c7f17a1c030"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		OpenBrowser.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

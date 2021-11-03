@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Success"
+		duration="11.8s"
+		durationms="11799"
+		type="root"
+		rid="86efefb10b5f92c"
+		totalerrorcount="0"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="siddhartha.p"
+		rxversion="9.5.1.0"
+		host="EC2AMAZ-0CD87OS"
+		osversion="Microsoft Windows Server 2019 Datacenter 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-US"
+		dtnlanguage="en-US"
+		screenresolution="1440x900"
+		timestamp="8/26/2021 4:18:38 PM"
+		timestampiso="2021-08-26T16:18:38"
+		endtime="8/26/2021 4:18:49 PM"
+		timeoutfactor="1"
+		runid=""
+		sutversion=""
+		module="OpenBrowser">
+		<detail>
+			OpenBrowser
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:11.547"
+			timeRelativeToTestModuleStartTime="00:11.547"
+			timeWallClock="16:18:49"
+			time="00:11.547"
+			level="Info"
+			category="Website">
+			<message>
+				Opening web site 'https://the-internet.herokuapp.com/' with browser 'chrome' in maximized mode.
+			</message>
+			<metainfo
+				itemindex="0"
+				codefile="C:\Users\siddhartha.p\Documents\Ranorex\RanorexStudio Projects\Mercy_Browserstack\Mercy_Browserstack\OpenBrowser.cs"
+				codeline="82"
+				loglvl="Info">
+			</metainfo>
+		</item>
+	</activity>
+</report>

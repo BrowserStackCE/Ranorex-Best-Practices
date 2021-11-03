@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc>
+  <testsuiteentryhierarchy>
+    <flatlistofchildren>
+      <modulegroups
+      name="Mercy_Browserstack"
+      id="a543583c-99ee-4484-89b1-628e090e57f7"/>
+    </flatlistofchildren>
+    <childhierarchy>
+      <modulegroups
+      name="Mercy_Browserstack"
+      id="a543583c-99ee-4484-89b1-628e090e57f7"/>
+    </childhierarchy>
+  </testsuiteentryhierarchy>
+</modulegroupdoc>

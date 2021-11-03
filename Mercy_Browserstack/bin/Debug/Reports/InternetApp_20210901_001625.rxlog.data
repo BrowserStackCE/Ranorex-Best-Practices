@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Success"
+		duration="11.75s"
+		durationms="11749"
+		type="root"
+		rid="242cc580e6a41d00"
+		totalerrorcount="0"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="siddhartha.p"
+		rxversion="9.5.1.0"
+		host="Browserstack&#13;&#10;https://hub-cloud.browserstack.com/wd/hub&#13;&#10;browserstack chrome86  1400X900&#13;&#10;&#13;&#10;{&#13;&#10;  &quot;os&quot;: &quot;Windows&quot;,&#13;&#10;  &quot;os_version&quot;: &quot;10&quot;,&#13;&#10;  &quot;browserName&quot;: &quot;Chrome&quot;,&#13;&#10;  &quot;browser_version&quot;: &quot;86.0&quot;,&#13;&#10;  &quot;resolution&quot;: &quot;1440x900&quot;,&#13;&#10;  &quot;project&quot;: &quot;Ranorex Project&quot;,&#13;&#10;  &quot;build&quot;: &quot;Ranorex Build 1&quot;,&#13;&#10;  &quot;name&quot;: &quot;Adv Caps The Internet App-Click,Input,Clear&quot;,&#13;&#10;  &quot;browserstack.local&quot;: &quot;false&quot;,&#13;&#10;  &quot;browserstack.debug&quot;: &quot;true&quot;,&#13;&#10;  &quot;browserstack.networkLogs&quot;: &quot;true&quot;,&#13;&#10;  &quot;browserstack.selenium_version&quot;: &quot;3.14.0&quot;,&#13;&#10;  &quot;browserstack.user&quot;: &quot;siddharthapatki2&quot;,&#13;&#10;  &quot;browserstack.key&quot;: &quot;1pkpXahTJTDkhMeAhvfu&quot;&#13;&#10;}"
+		osversion="-"
+		runtimeversion="-"
+		procarch="-"
+		oslanguage="-"
+		dtnlanguage="-"
+		screenresolution="-"
+		timestamp="9/1/2021 12:16:29 AM"
+		timestampiso="2021-09-01T00:16:29"
+		endtime="9/1/2021 12:16:41 AM"
+		timeoutfactor="1"
+		runid=""
+		sutversion=""
+		module="InternetApp">
+		<detail>
+			InternetApp
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:09.330"
+			timeRelativeToTestModuleStartTime="00:09.330"
+			timeWallClock="00:16:38"
+			time="00:09.330"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ApplicationUnderTest.WelcomeToTheInternet' at 313;18.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='the-internet.herokuapp.com']//div[#'content']/h1[@innertext='Welcome to the-internet']"
+				itempath=".//div[#'content']/h1[@innertext='Welcome to the-internet']"
+				fullname="Mercy_BrowserstackRepository.ApplicationUnderTest.WelcomeToTheInternet"
+				id="04fb33ccb3434d9b850cc35a5311e535"
+				timeout="60000"
+				codefile="C:\Users\siddhartha.p\Documents\Ranorex\RanorexStudio Projects\Mercy_Browserstack\Mercy_Browserstack\InternetApp.cs"
+				codeline="82"
+				itemindex="0"
+				loglvl="Info">
+			</metainfo>
+		</item>
+	</activity>
+</report>
