@@ -1,0 +1,18 @@
+﻿<Properties>
+  <Array name="active">
+    <Element value="InternetApp.UserCode.cs" />
+  </Array>
+  <Array name="bookmarks" />
+  <Array name="files">
+    <Element value="InternetApp.rxrec" />
+    <Element value="InternetApp.cs" />
+    <Element value="Ranorex_Browserstack.rxtst" />
+    <Element value="InternetApp.UserCode.cs" />
+  </Array>
+  <Properties name="projectSavedData">
+    <Array name="recentusercodeselections">
+      <Element value="Ranorex_Browserstack.InternetApp.Select_All_Text()" />
+      <Element value="Ranorex_Browserstack.InternetApp.Mouse_Click_Target(RepoItemInfo inputtagInfo)" />
+    </Array>
+  </Properties>
+</Properties>

@@ -1,0 +1,12 @@
+C:\Users\siddhartha.p\Documents\Ranorex\RanorexStudio Projects\Ranorex_Browserstack\Ranorex_Browserstack\bin\Debug\Ranorex_Browserstack.rxtmg
+C:\Users\siddhartha.p\Documents\Ranorex\RanorexStudio Projects\Ranorex_Browserstack\Ranorex_Browserstack\bin\Debug\Ranorex_Browserstack.rxtst
+C:\Users\siddhartha.p\Documents\Ranorex\RanorexStudio Projects\Ranorex_Browserstack\Ranorex_Browserstack\bin\Debug\Ranorex_Browserstack.exe.config
+C:\Users\siddhartha.p\Documents\Ranorex\RanorexStudio Projects\Ranorex_Browserstack\Ranorex_Browserstack\bin\Debug\Ranorex_Browserstack.xml
+C:\Users\siddhartha.p\Documents\Ranorex\RanorexStudio Projects\Ranorex_Browserstack\Ranorex_Browserstack\bin\Debug\Ranorex_Browserstack.exe
+C:\Users\siddhartha.p\Documents\Ranorex\RanorexStudio Projects\Ranorex_Browserstack\Ranorex_Browserstack\bin\Debug\Ranorex_Browserstack.pdb
+C:\Users\siddhartha.p\Documents\Ranorex\RanorexStudio Projects\Ranorex_Browserstack\Ranorex_Browserstack\bin\Debug\Ranorex.Core.Resolver.dll
+C:\Users\siddhartha.p\Documents\Ranorex\RanorexStudio Projects\Ranorex_Browserstack\Ranorex_Browserstack\obj\x86\Debug\Ranorex_Browserstack.csprojAssemblyReference.cache
+C:\Users\siddhartha.p\Documents\Ranorex\RanorexStudio Projects\Ranorex_Browserstack\Ranorex_Browserstack\obj\x86\Debug\Ranorex_Browserstack.csproj.CoreCompileInputs.cache
+C:\Users\siddhartha.p\Documents\Ranorex\RanorexStudio Projects\Ranorex_Browserstack\Ranorex_Browserstack\obj\x86\Debug\Ranorex_Browserstack.csproj.CopyComplete
+C:\Users\siddhartha.p\Documents\Ranorex\RanorexStudio Projects\Ranorex_Browserstack\Ranorex_Browserstack\obj\x86\Debug\Ranorex_Browserstack.exe
+C:\Users\siddhartha.p\Documents\Ranorex\RanorexStudio Projects\Ranorex_Browserstack\Ranorex_Browserstack\obj\x86\Debug\Ranorex_Browserstack.pdb
