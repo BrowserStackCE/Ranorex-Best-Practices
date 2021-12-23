@@ -2,7 +2,7 @@
 				  	         	
 
 ## Getting Started with Browserstack
-This guide is meant to provide Ranorex specific information to help you have a smoother experience on Browserstack.
+This guide is meant to provide Ranorex specific information to help you have a smoother experience on Browserstack. For Introductory information refer to [Browserstack's official documentation](https://www.browserstack.com/docs/automate/selenium/ranorex#introduction) on Ranorex.
 ## Index
 ### 1. [General best practices](#General-Best-Practices).
 ### 2. [Frequent Issues](##Frequent-Issues).
