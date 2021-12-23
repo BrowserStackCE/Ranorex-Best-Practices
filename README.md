@@ -28,8 +28,8 @@ The window size and resolution should be the same while recording the session in
 - [Prerequisites for successful recording](https://www.ranorex.com/help/v9.5/ranorex-studio-fundamentals/ranorex-recorder/recording-a-test/#:~:text=the%20screencast%20now-,Steps%20for%20successful%20recording,-Ranorex%20Studio%20supports).
 We can ensure this by passing Maximized as True
 
-- I confirmed my local machines Screen Dimensions from the .rxlogs. (XXXX x YYY)
-And passed the capability: resolution" : "XXXX x YYY", as mentioned below.
+- I confirmed my local machines Screen Dimensions from the .rxlogs. (XXXX x YYY). And passed the capability:
+``` resolution" : "XXXX x YYY".```
 
 ## Bug-2
 You may have a hard time executing key combinations,  due to delays and waits not being properly applied.
