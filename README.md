@@ -9,8 +9,6 @@ This guide is meant to provide Ranorex specific information to help you have a s
 - Issues with KeySequences and PressKeys.
 - Clicks not working.
 - Clear text field
-### 3. RESOURCES:
-Links
 
 ## General-Best-Practices
 1. Start browser window in maximised mode while recording the tests and when executing the same.
